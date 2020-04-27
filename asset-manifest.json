@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9fae988a.chunk.css",
-    "main.js": "/static/js/main.87bf2e8b.chunk.js",
+    "main.js": "/static/js/main.5105f352.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.76ef3520.js",
     "static/css/2.0e6bf4c9.chunk.css": "/static/css/2.0e6bf4c9.chunk.css",
-    "static/js/2.1a848845.chunk.js": "/static/js/2.1a848845.chunk.js",
+    "static/js/2.2e47f029.chunk.js": "/static/js/2.2e47f029.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.bfb46f45ab0fbe115b2f6ae66c6c2db4.js": "/precache-manifest.bfb46f45ab0fbe115b2f6ae66c6c2db4.js",
+    "precache-manifest.cf7efd36e9643b7774c9d9b40d37a95e.js": "/precache-manifest.cf7efd36e9643b7774c9d9b40d37a95e.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.1a848845.chunk.js.LICENSE.txt": "/static/js/2.1a848845.chunk.js.LICENSE.txt",
+    "static/js/2.2e47f029.chunk.js.LICENSE.txt": "/static/js/2.2e47f029.chunk.js.LICENSE.txt",
     "static/media/2 PARSEC Accelerator LOGO official blue.png": "/static/media/2 PARSEC Accelerator LOGO official blue.07f521cb.png",
     "static/media/Andreas.jpg": "/static/media/Andreas.9437c17e.jpg",
     "static/media/August.jpg": "/static/media/August.1fcfd19c.jpg",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.76ef3520.js",
     "static/css/2.0e6bf4c9.chunk.css",
-    "static/js/2.1a848845.chunk.js",
+    "static/js/2.2e47f029.chunk.js",
     "static/css/main.9fae988a.chunk.css",
-    "static/js/main.87bf2e8b.chunk.js"
+    "static/js/main.5105f352.chunk.js"
   ]
 }
